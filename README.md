@@ -1,6 +1,6 @@
 # RecycleBinTray
 <img src="https://i.imgur.com/GF5ADhI.png" alt="Descripción de la imagen" width="100%">
-[English](README.md) · [Español](README.es.md)
+[English](README.md) · 
 
 A tiny PowerShell script for Windows 10/11 that puts the **Recycle Bin in the system tray** and **removes it from the desktop**, so it stops cluttering your folders and files.
 
