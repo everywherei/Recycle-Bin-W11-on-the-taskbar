@@ -18,6 +18,8 @@ No compiler, no dependencies, no admin rights required.
 - Starts automatically with Windows, without showing any PowerShell window
 - Localized in the language of Windows: English, Spanish, Chinese (Simplified and Traditional), Portuguese, Russian, German, French, Japanese, Italian and Korean (falls back to English)
 
+<img src="https://i.imgur.com/xz7cjRx.jpeg" alt="Descripción de la imagen" width="100%">
+
 ## Install
 
 1. Download `RecycleBinTray.ps1`.
